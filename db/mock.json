@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "firstName": "john",
+    "lastName": "doe",
+    "email": "john@gmail.com",
+    "mobile_number": 1234543456,
+    "password": "Pass_word123"
+  },
+  {
+    "id": 2,
+    "firstName": "jane",
+    "lastName": "doe",
+    "email": "jane@gmail.com",
+    "mobile_number": 2345654321,
+    "password": "Pass_word123"
+  }
+]
